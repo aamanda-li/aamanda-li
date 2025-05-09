@@ -48,8 +48,8 @@ i'm currently building [queen's ux club](https://www.instagram.com/queens.ux), a
 ---
 
 ### let’s connect! :)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/amanda-li)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:amanda.li@quensu.ca)
+Send me an email: [amanda.li@queensu.ca](mailto:amanda.li@queensu.ca)  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/amanda-li-1889a9252/)
 
 ---
 
