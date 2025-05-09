@@ -13,8 +13,6 @@ i'm currently building [queen's ux club](https://www.instagram.com/queens.ux), a
 - startup-y teams where builders wear many hats
 - opportunities to make an impact through intuitive user experiences
 
----
-
 ### tools & tech :)
 
 #### languages
