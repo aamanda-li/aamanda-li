@@ -48,9 +48,9 @@ i'm currently building [queen's ux club](https://www.instagram.com/queens.ux), a
 ---
 
 ### let’s connect! :)
-Send me an email: [amanda.li@queensu.ca](mailto:amanda.li@queensu.ca)  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/amanda-li-1889a9252/)
+send me an email: [amanda.li@queensu.ca](mailto:amanda.li@queensu.ca)  
+connect with me on [linkedin](https://www.linkedin.com/in/amanda-li-1889a9252/)
 
 ---
 
-> "Great products aren’t just built — they’re designed with care, driven by empathy, and delivered with intent."
+> "great products aren’t just built — they’re designed with care, driven by empathy, and delivered with intent."
