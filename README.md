@@ -4,8 +4,6 @@
 
 # hi, i’m amanda :)
 
----
-
 i’m a computer science student at queen’s university with a love for building products that are thoughtful, useful, and a little bit fun!
 
 with experience across product design, development, and marketing, i’ve led multidisciplinary teams, built full-stack apps, and pitched winning ideas at competitions. whether it’s launching a campus UX club or refining listing flows at a proptech startup, i thrive at the intersection of creativity, strategy, and execution.
