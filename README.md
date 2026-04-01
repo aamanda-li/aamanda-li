@@ -42,5 +42,6 @@ i'm currently building [queen's ux club](https://www.instagram.com/queens.ux), a
 ---
 
 ### let’s connect! :)
+portfolio: [amandali.me][https://www.amandali.me]
 send me an email: [amanda.li@queensu.ca](mailto:amanda.li@queensu.ca)  
 connect with me on [linkedin](https://www.linkedin.com/in/aamanda-li/)
